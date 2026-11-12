@@ -69,6 +69,7 @@ npm run dev        # → http://localhost:8787/admin/
 | 🛠️ | [`@ghuri/admin`](https://github.com/ghurijs/admin) | The Django admin, server-rendered on Workers |
 | 🔌 | [`@ghuri/rest`](https://github.com/ghurijs/rest) | Serializers, viewsets, routers, permissions, pagination, OpenAPI |
 | 🕸️ | [`@ghuri/graphql`](https://github.com/ghurijs/graphql) | graphene-django style schemas, Relay connections, GraphiQL |
+| ⚡ | [`@ghuri/realtime`](https://github.com/ghurijs/realtime) | WebSockets in Django Channels style, rooms on Durable Objects |
 | 📦 | [`@ghuri/storage`](https://github.com/ghurijs/storage) | R2, S3 and filesystem backends, `FileField` / `ImageField` |
 | 🤖 | [`@ghuri/agents`](https://github.com/ghurijs/agents) | AI agents with tools from your models and viewsets, MCP server |
 | ⌨️ | [`@ghuri/cli`](https://github.com/ghurijs/cli) | `startproject`, `startapp`, `makemigrations`, `migrate`, … |
